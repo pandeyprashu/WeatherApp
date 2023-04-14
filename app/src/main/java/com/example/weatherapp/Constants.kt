@@ -14,7 +14,7 @@ import android.net.NetworkCapabilities
 
 object Constants {
 
-    const val API_KEY="d618df7c4ef5afce787abc09bd19c7ec"
+    const val API_KEY="YOUR_API_KEY"
     const val BASE_URL="https://api.openweathermap.org/data/"
     const val METRIC_UNIT="metric"
     const val PREFERENCE_NAME="WeatherApp"
