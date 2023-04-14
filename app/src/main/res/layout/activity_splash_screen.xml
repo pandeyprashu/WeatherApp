@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~ * Created Prashu Pandey on 4/14/23, 5:56 PM
+  ~ * Copyright (c) 2023 All rights reserved 2023
+  ~ * Last modified: 4/14/23, 5:56 PM
+  ~
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_blue_600"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:padding="5dp"
+    tools:context=".SplashScreen">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:src="@drawable/logo"
+        tools:ignore="ContentDescription" />
+
+
+
+</LinearLayout>
